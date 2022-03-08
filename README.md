@@ -2,7 +2,7 @@
             
             
             
-          ![gitprofile](https://user-images.githubusercontent.com/59734313/155963495-27ffb5e3-d474-4eb3-97b8-0cbc2097f16a.gif)
+![git2profile](https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif)
 
 
 
