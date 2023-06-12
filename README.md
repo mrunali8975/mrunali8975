@@ -1,13 +1,13 @@
             
             
             
-![git2profile](https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif)
-
-
+<!-- ![git2profile](https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif) -->
+<p align="center"><img align="center" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" width=400 />
+ </p>
 
 
 <h1 align="center">Hi 👋, I'm Mrunali Ambhore</h1>
-<h3 align="center">I love to develope mobile application and web application</h3>
+<h3 align="center">I love to develop mobile application and web application</h3>
 
 - 🔭 I’m currently working on **Khetivalah**
 
